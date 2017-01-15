@@ -39,7 +39,7 @@ while(!enemies.isEmpty()) {
    
    That's a wrap for the environment set up.  You can now clone and run ant on the repository through:
    ```
-   git clone https://github.com/timmykuo/opponents.git
+   git clone https://github.com/timmykuo/Opponents.git
    ```
 # API Reference
    Ant creates JavaDoc htmls for API reference.  Run the following command in your terminal:
